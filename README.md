@@ -1,5 +1,9 @@
 # Detect Lane Lines with Python & OpenCV
 
+[Dependencies](https://github.com/ancabilloni/Lane-Detection##Dependencies)
+
+[For review](https://github.com/ancabilloni/Lane-Detection##For-review)
+
 [Final out put video](https://youtu.be/KqUhB3i5WF0)
 
 ## Dependencies
